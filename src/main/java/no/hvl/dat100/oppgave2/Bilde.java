@@ -27,11 +27,4 @@ public class Bilde extends Tekst {
 	public String toString() {
 		return "BILDE\n" + super.toString().substring(6) + url + "\n";
 	}
-
-	// Metoden nedenfor er kun for valgfri oppgave 6
-	public String toHTML() {
-		
-		throw new UnsupportedOperationException(TODO.method());
-				
-	}
 }

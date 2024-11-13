@@ -60,27 +60,4 @@ public class Blogg {
 		}
 		return sb.toString();
 	}
-
-	// valgfrie oppgaver nedenfor
-	
-	public void utvid() {
-		throw new UnsupportedOperationException(TODO.method());
-	}
-	
-	public boolean leggTilUtvid(Innlegg innlegg) {
-
-		throw new UnsupportedOperationException(TODO.method());
-		
-	}
-	
-	public boolean slett(Innlegg innlegg) {
-		
-		throw new UnsupportedOperationException(TODO.method());
-	}
-	
-	public int[] search(String keyword) {
-		
-		throw new UnsupportedOperationException(TODO.method());
-
-	}
 }
